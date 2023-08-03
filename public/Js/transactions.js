@@ -83,7 +83,7 @@ function getTransactions() {
         })
     }
 
-    document.getElementById("transactions-list").innerHTML = transactionsHTML;
+    document.getElementById("transaction-list").innerHTML = transactionsHTML;
 }
 
 function saveData(data) {
