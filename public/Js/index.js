@@ -1,5 +1,5 @@
 let logged = sessionStorage.getItem("Logged");
-const session = localStorage.getItem("session");
+
 
 checkLogged( );
 
